@@ -178,7 +178,7 @@ github主页->头像->Your Repostiories->你创建的库，点进去->绿色按�
 
 打开github，Settings->Developer settings->Personal access tokens->Generate new token
 
-note随便填，但别忘了，等会要用，select scopes下选repo,然后下拉点绿色按钮，对号后生成一串口令，复制下来找个地方存好，以免遗忘，当你关闭这个页面后，你将无法再次库看到
+note随便填，但别忘了，等会要用，select scopes下选repo,然后下拉点绿色按钮，对号后生成一串口令，复制下来找个地方存好，以免遗忘，当你关闭这个页面后，你将无法再次看到
 
 ## 发布
 
